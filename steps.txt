@@ -1,0 +1,13 @@
+get your API key 
+create your github repo with ReadMe
+clone down your repo into the playground or other folder of your choice
+open VS code
+add .gitignore file 
+add .env file put test info in file
+add .env to .gitignore file
+create a new branch 
+push up your code to github 
+create script and index files 
+create your basic html 
+link javascript to html 
+PSEUDOCODE 
